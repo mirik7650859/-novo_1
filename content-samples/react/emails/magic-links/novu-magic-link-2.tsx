@@ -13,6 +13,7 @@ import {
 } from "@react-email/components";
 import * as React from "react";
 
+
 interface NovuMagicLinkEmailProps {
   magicLink?: string;
 }
